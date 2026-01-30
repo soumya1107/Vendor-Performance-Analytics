@@ -106,22 +106,4 @@ Visualization: Power BI (DAX, slicers, measures)
 
 Data Scale: 20+ million records
 
-🎯 Key Takeaways
 
-Demonstrates ability to work with large datasets
-
-Combines EDA + statistics + visualization into one coherent workflow
-
-Bridges the gap between technical analysis and business insights
-
-Reflects real-world analytics problems in vendor and supply-chain domains
-
-🚀 Why This Project Matters
-
-This project showcases how raw transactional data can be transformed into:
-
-Clear performance narratives
-
-Statistically validated insights
-
-Interactive dashboards for decision-making
